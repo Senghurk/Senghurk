@@ -11,17 +11,11 @@
 <div align="center">
     
  Nothing much! Still Under Construction..
-
     
  </div>
- 
-
 
  <hr/>
  
-<br/>
-
-
 <br/>
 
 <h2 align="center"> Stats </h2>
