@@ -13,8 +13,6 @@
  Nothing much! Still Under Construction..
     
  </div>
-
- <hr/>
  
 <br/>
 
