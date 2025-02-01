@@ -4,7 +4,7 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+I'm+Hseng+Hurk!;" />
 </h1>
 
-<h3 align="center">Love to do Red-Teaming, Pentesting, CTF and Dev anything that come to mind</h3>
+<h3 align="center">SWE, CTF, Red Teaming</h3>
 
 <br/>
 
