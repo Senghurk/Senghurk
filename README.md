@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/basnetsoyuj/basnetsoyuj/master/assets/images/wave.gif" width="25px" />
+  <img src="https://raw.githubusercontent.com/basnetsoyuj/basnetsoyuj/master/assets/images/wave.gif" width="20px" />
   <b>Hi! I'm Senghurk</b>
 </p>
 
@@ -9,8 +9,8 @@
   </b>
 </p>
 
-- Strongly typed backend systems
+- Working with strongly typed backend systems
 - Service-oriented and domain-driven architecture
-- Spring ecosystem and persistence layers
-- Gradient-based optimization and statistical learning theory
-- Side projects and experimentation
+- Using the Spring ecosystem and persistence layers
+- Digging into ML/AI and the math behind them as a hobby and it's fun when you understand them
+- Love building side projects and experimenting
