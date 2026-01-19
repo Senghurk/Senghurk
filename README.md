@@ -1,7 +1,8 @@
-## Hi! I'm Senghurk
+Hi! I'm Senghurk
 
-Currently learning distributed and scalable systems
-Strongly typed backend systems
-Service-oriented architecture
-Spring ecosystem and persistence
-Side projects and experimentation
+- Currently learning distributed and scalable systems
+- Strongly typed backend systems
+- Service-oriented and domain-driven architecture
+- Spring ecosystem and persistence layers
+- Gradient-based optimization and statistical learning theory
+- Side projects and systems tinkering
