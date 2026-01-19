@@ -1,4 +1,4 @@
-https://raw.githubusercontent.com/basnetsoyuj/basnetsoyuj/master/assets/images/wave.gif Hi! I'm Senghurk
+<img src="https://raw.githubusercontent.com/basnetsoyuj/basnetsoyuj/master/assets/images/wave.gif" width="25px" />Hi! I'm Senghurk
 
 - Currently learning distributed and scalable systems
 - Strongly typed backend systems
