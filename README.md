@@ -1,4 +1,4 @@
-Hi! I'm Senghurk
+https://raw.githubusercontent.com/basnetsoyuj/basnetsoyuj/master/assets/images/wave.gif Hi! I'm Senghurk
 
 - Currently learning distributed and scalable systems
 - Strongly typed backend systems
