@@ -11,6 +11,6 @@
 
 - Working with strongly typed backend systems
 - Service-oriented and domain-driven architecture
-- Using the Spring ecosystem and persistence layers
-- Digging into ML/AI and the math behind them as a hobby and it's fun when you understand them
+- Using Spring ecosystem and persistence layers
+- Studying ML/AI and the math behind them
 - Love building side projects and experimenting
