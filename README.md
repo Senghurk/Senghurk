@@ -10,4 +10,6 @@
 </p>
 
 - Working with strongly typed backend systems
+- Interested in low-level and systems programming through OS, compiler, kernel and tooling experiments
 - Love building side projects and experimenting
+
