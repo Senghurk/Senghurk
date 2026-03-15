@@ -10,7 +10,4 @@
 </p>
 
 - Working with strongly typed backend systems
-- Service-oriented and domain-driven architecture
-- Using Spring ecosystem and persistence layers
-- Studying ML/AI and the math behind them
 - Love building side projects and experimenting
