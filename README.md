@@ -10,6 +10,6 @@
 </p>
 
 - Working with strongly typed backend systems
-- In my free time, I like doing low-level and systems programming (OS, compiler, and kernel)
+- I like doing low-level and systems programming (ask me about OS, syscalls, virtual memory, CPU scheduling/concurrency, threads, MIPS ISA/assembly/pipeline, micro/macroarchitecture)
 - Love building side projects and experimenting
 
