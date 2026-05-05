@@ -10,6 +10,6 @@
 </p>
 
 - Working with strongly typed backend systems
-- I like doing low-level and systems programming (ask me how OS, syscalls, virtual memory, CPU scheduling/concurrency, threads, MIPS ISA/assembly/pipeline, micro/macroarchitecture works internally)
+- I like doing low-level and systems programming (ask me how OS, compilers, syscalls, virtual memory, CPU scheduling/concurrency, threads, MIPS ISA/assembly/pipeline, micro/macroarchitecture works internally)
 - Love building side projects and experimenting
 
